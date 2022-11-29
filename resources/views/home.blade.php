@@ -13,6 +13,10 @@
                 <div class="card" id="example">
                     
                 </div>
+
+
+                <div class="container" id="chart_1">
+                </div>
             </div>
         </div>
     </div>

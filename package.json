@@ -16,5 +16,11 @@
         "react-dom": "^17.0.2",
         "sass": "^1.32.11",
         "vite": "^3.0.0"
+    },
+    "dependencies": {
+        "echarts": "^5.4.0",
+        "echarts-for-react": "^3.0.2",
+        "react-redux": "^8.0.5",
+        "redux": "^4.2.0"
     }
 }
